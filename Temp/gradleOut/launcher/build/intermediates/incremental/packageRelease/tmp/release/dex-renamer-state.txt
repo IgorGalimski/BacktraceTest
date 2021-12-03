@@ -1,0 +1,4 @@
+#Fri Dec 03 13:41:44 EET 2021
+base.0=/Users/igorgalimski/Desktop/TestBacktrace/Temp/gradleOut/launcher/build/intermediates/dex/release/mergeDexRelease/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
